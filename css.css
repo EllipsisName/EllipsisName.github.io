@@ -1,7 +1,7 @@
 
 #Link{
   text-align:center;
-  font-size:33px;
+  font-size:50px;
   clear:both;
 }
 
@@ -34,5 +34,7 @@ a.b{ background-image:url(B.png);}
 a.b:hover { background-image:url(b_2.png) ;}
 a.y{ background-image:url(Y.png);}
 a.y:hover { background-image:url(y_2.png) ;}
+
+a.link:hover{color:darkred;}
 
 /*a{ background-image:url(R.png);}a:hover { background-image:url(r_2.png);}*/
