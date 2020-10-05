@@ -4,3 +4,35 @@
   font-size:33px;
   clear:both;
 }
+
+
+#title{
+  font-size:20px;
+  text-align:center;
+}
+#text1{
+  width:35%;
+  float:left;
+  padding:70px;
+  font-size:20px;
+}
+#text2{
+  width:35%;
+  float:right;
+  padding:70px;
+  font-size:20px;
+}
+#rwby{
+  float:left;
+  width:25%
+}
+a.r{ background-image:url(R.png);}
+a.r:hover { background-image:url(r_2.png) ;}
+a.w{ background-image:url(W.png);}
+a.w:hover { background-image:url(w_2.png) ;}
+a.b{ background-image:url(B.png);}
+a.b:hover { background-image:url(b_2.png) ;}
+a.y{ background-image:url(Y.png);}
+a.y:hover { background-image:url(y_2.png) ;}
+
+/*a{ background-image:url(R.png);}a:hover { background-image:url(r_2.png);}*/
